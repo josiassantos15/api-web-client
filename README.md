@@ -1,4 +1,4 @@
-# API de Games com Spring Boot
+# API Web flux com Spring Boot
 
 Este projeto é uma API Webflux utilizando Web Client desenvolvida utilizando o framework Spring Boot e a ferramenta de gerenciamento de dependências Maven. A API segue o padrão de arquitetura REST e tem como objetivo consumir Api externa.
 
